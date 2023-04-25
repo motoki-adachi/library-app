@@ -1,0 +1,6 @@
+backend/sprinb-boot-library/src/main/resources/application.properties
+*.properties
+frontend/react-library/node_modules/*
+frontend/react-library/src/lib/oktaConfig.ts
+backend/.DS_Store
+.DS_Store
